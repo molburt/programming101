@@ -23,9 +23,9 @@ function addTwoNumbersTogether(x, y) {
 var whatIsOnePlusTwo = addTwoNumbersTogether(1, 2);
 
 PRACTICE PROBLEM:
-Create a function that converts a parameter of degrees Celsius to Fahrenheit and then returns the value. To convert Celsius to Fahrenheit, multiply the 
-degrees Celsius by 1.8, and then add 32. So, for example, 30 degrees Celsius would be 86 degrees Fahrenheit because 30 times 1.8 = 54 
-plus 32 = 86.
+Create a function that converts a parameter of degrees Celsius to Fahrenheit and then returns the value. To convert Celsius to 
+Fahrenheit, multiply the degrees Celsius by 1.8, and then add 32. So, for example, 30 degrees Celsius would be 86 degrees 
+Fahrenheit because 30 times 1.8 = 54 plus 32 = 86.
 Step 1) Create a function called convertCelsiusToFahrenheit (or whatever you want to name it).
 Step 2) Within the function, use mathmatical operators and the formula above to convert the parameter to degrees Fahrenheit. 
 (Remember order of operations!)
