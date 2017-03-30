@@ -1,0 +1,35 @@
+FUNCTION and SCOPE
+
+GOAL: Understand what a function is, why you would use it, and how to use it in your code.
+
+"A JavaScript function is a block of code designed to perform a particular task...A JavaScript function is defined with the 
+function keyword, followed by a name, followed by parentheses ()......The parentheses may include parameter names separated by 
+commas...The code to be executed, by the function, is placed inside curly brackets: {}"
+
+"Inside the function, the arguments (the parameters) behave as local variables." We call this the scope of the variable. The scope 
+of a parameter is local, which is to say, it is only recognized as a defined variable within the curly brackets that make-up the 
+body of that function. You could not use it or the values you assign to it outside of the function (unless you passed it to 
+another function).
+
+"The code inside the function will execute when "something" invokes (calls) the function".
+
+Functions can return a value, which is to say that they can send data back to the location that they were called.
+
+EXAMPLE:
+function addTwoNumbersTogether(x, y) {
+    return x + y;
+}
+
+var whatIsOnePlusTwo = addTwoNumbersTogether(1, 2);
+
+PRACTICE PROBLEM:
+Create a function that converts a parameter of degrees Celsius to Fahrenheit and then returns the value. To convert Celsius to Fahrenheit, multiply the 
+degrees Celsius by 1.8, and then add 32. So, for example, 30 degrees Celsius would be 86 degrees Fahrenheit because 30 times 1.8 = 54 
+plus 32 = 86.
+Step 1) Create a function called convertCelsiusToFahrenheit (or whatever you want to name it).
+Step 2) Within the function, use mathmatical operators and the formula above to convert the parameter to degrees Fahrenheit. 
+(Remember order of operations!)
+Step 3) Display the conversion using console.log(convertCelsiusToFahrenheit(30)). It should display 86.
+
+REFERENCES:
+https://www.w3schools.com/js/js_functions.asp
