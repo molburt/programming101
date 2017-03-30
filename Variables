@@ -2,9 +2,12 @@ VARIABLES
 
 GOAL: Know what a variable is and how it is used in JavaScript.
 
-"JavaScript variables are containers for storing data values...All JavaScript variables must be identified with unique names...variables can hold numbers like 100 and text values like 'John Doe'."
+"JavaScript variables are containers for storing data values...All JavaScript variables must be identified with unique names...
+variables can hold numbers like 100 and text values like 'John Doe'."
 
-To create a variable, use the var keyword followed by the unique name you wish to give that variable. You may also initialize a variable, which is to say, you may assign it a value immediately, by following the declaration with an equal sign and then the value.
+To create a variable, use the var keyword followed by the unique name you wish to give that variable. You may also initialize a 
+variable, which is to say, you may assign it a value immediately, by following the declaration with an equal sign and then the 
+value.
 
 EXAMPLES:
 var x;
