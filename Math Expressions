@@ -1,8 +1,11 @@
 MATH EXPRESSIONS
 
-GOAL: Understand how to perform multiplication, division, addition, subtraction and other mathmatical expressions within the code using mathmatical operators.
+GOAL: Understand how to perform multiplication, division, addition, subtraction and other mathmatical expressions within the code 
+using mathmatical operators.
 
-Math operators are simply the symbols used to express addition (+), subtraction (-), multiplication (*), division (/), remainder (%), and exponents (^). Math follows the order of operations (http://www.purplemath.com/modules/orderops.htm), so make sure that you keep that in mind.
+Math operators are simply the symbols used to express addition (+), subtraction (-), multiplication (*), division (/), remainder 
+(%), and exponents (^). Math follows the order of operations (http://www.purplemath.com/modules/orderops.htm), so make sure that 
+you keep that in mind.
 
 EXAMPLES:
 10+2 = 12
