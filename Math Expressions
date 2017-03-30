@@ -1,0 +1,27 @@
+MATH EXPRESSIONS
+
+GOAL: Understand how to perform multiplication, division, addition, subtraction and other mathmatical expressions within the code using mathmatical operators.
+
+Math operators are simply the symbols used to express addition (+), subtraction (-), multiplication (*), division (/), remainder (%), and exponents (^). Math follows the order of operations (http://www.purplemath.com/modules/orderops.htm), so make sure that you keep that in mind.
+
+EXAMPLES:
+10+2 = 12
+10-2 = 8
+10*2 = 20
+10/2 = 5
+13%2 = 1
+2^2 = 4
+
+var number1 = 10, number2 = 3, answer;
+answer = number1 + number2;
+answer = number1 - number2;
+answer = number1 * number2;
+answer = number1 / number2;
+
+PRACTICE PROBLEM:
+Step 1) Create a variable named number and initialize it to 10.
+Step 2) Add 7 to variable number.
+Step 3) Subtract 6 from variable number.
+Step 4) Multiply variable number by 2.
+Step 5) Divide variable number by 11.
+Step 6) Display the result using console.log(). It should display 2.
